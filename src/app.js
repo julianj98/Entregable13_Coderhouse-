@@ -161,7 +161,7 @@ export {io};
 
 //ENDPOINTS
 // formato de los documents    ['document-identificacion .docx', 'document-comprobante-de-domicilio.docx', 'document-comprobante-de-estado-de-cuenta.docx'];
-// id que puede usar de ejemplo: 652f2a192b5757623ef48a29
+// id que puede usar de ejemplo: 652f2a192b5757623ef48a29 , mail enzof@mail.com
 //localhost:8080/api/sessions/resetpassword para enviar el mail (pasar en postman el user y pass de ethereal email)
 //localhost:8080/api/sessions/resetpassword/:token (ingresar el token en la url  y pasar el body la new password con el formato:) 
 /*{
